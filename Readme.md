@@ -1,8 +1,10 @@
 # SwayDots (Inspired by this pidoras > wirosmango)
 My dots fo Sway(FX) \
+\
 [HOTKEYS](Hotkeys.md)
 ___
-[ No photo :( I will upload this later ]
+<img width="1599" height="899" alt="image_2026-08-16_00-26-50" src="https://github.com/user-attachments/assets/3b66a180-3d2c-418c-98f3-983b536df7de" />
+
 
 # **Dependencies**
 ```
