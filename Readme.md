@@ -1,5 +1,6 @@
 # SwayDots (Inspired by this pidoras > wirosmango)
-My dots fo Sway(FX)
+My dots fo Sway(FX) \
+[HOTKEYS](Hotkeys.md)
 ___
 [ No photo :( I will upload this later ]
 
