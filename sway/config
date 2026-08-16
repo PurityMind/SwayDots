@@ -39,7 +39,7 @@ set $term alacritty
 set $menu rofi -show drun
 
 ### Output
-output * bg ~/Downloads/wallhaven-yqxzqx_1600x900.png fill
+output * bg ~/.config/sway/wallhaven-yqxzqx_1600x900.png fill
 
 ### Autostart
 exec i3a-master-stack --stack=dwm --stack-size=35
