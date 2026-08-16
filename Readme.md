@@ -1,4 +1,4 @@
-# SwayDots (Inspired by this pidoras > wirosmango)
+# SwayDots (Inspired by this pidoras > [Wiros](https://github.com/wirosmango))
 My dots fo Sway(FX) \
 \
 [HOTKEYS](Hotkeys.md)
