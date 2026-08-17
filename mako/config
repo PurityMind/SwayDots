@@ -1,0 +1,45 @@
+#  #182222 — тени леса/гор
+#  #c8c9ca — облака
+#  #556773 — глубокая вода 
+#  #7b7b77 — горы в дымке
+#  #c7520b — локомотив 
+
+background-color=#182222E6
+text-color=#c8c9ca
+border-color=#556773
+border-size=2
+border-radius=6
+
+width=320
+height=110
+margin=10
+padding=12
+
+font=CascadiaCode Font 11
+
+icons=1
+max-icon-size=48
+icon-path=/usr/share/icons/hicolor
+
+default-timeout=6000
+ignore-timeout=0
+
+anchor=top-right
+
+progress-color=over #556773
+
+[urgency=low]
+border-color=#7b7b77
+default-timeout=4000
+
+[urgency=normal]
+border-color=#556773
+default-timeout=6000
+
+[urgency=critical]
+border-color=#c7520b
+text-color=#ffffff
+default-timeout=0
+
+[mode=dnd]
+invisible=1

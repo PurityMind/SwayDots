@@ -20,14 +20,7 @@ client.urgent             #c7520b     #182222     #ffffff     #c7520b     #c7520
 shadows disable
 shadows_on_csd enable
 
-### Portals (xdg-desktop-portal, no systemd on FreeBSD)
 exec dbus-update-activation-environment --all
-exec /usr/local/libexec/xdg-desktop-portal &
-exec /usr/local/libexec/xdg-desktop-portal-wlr &
-exec /usr/local/libexec/xdg-desktop-portal-gtk &
-
-# Keep clipboard content alive after source app exits (fixes Firefox paste issues)
-exec wl-clip-persist --clipboard regular
 
 ### Variables
 set $mod Mod4
@@ -42,9 +35,9 @@ set $menu rofi -show drun
 output * bg ~/.config/sway/wallhaven-yqxzqx_1600x900.png fill
 
 ### Autostart
-exec i3a-master-stack --stack=dwm --stack-size=35
 exec waybar &
 exec autotiling-rs &
+exec mako &
 
 ### Input configuration
 input type:keyboard {
