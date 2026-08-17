@@ -10,7 +10,7 @@ ___
 ```
 SwayFX, autotiling-rs, rofi, 
 flameshot, waybar, cascadia-code, 
-nerd-fonts.hack, alacritty
+nerd-fonts.hack, alacritty, mako
 ```
 
 # **Installation (I'm too lazy to make an installation script)**
